@@ -5,4 +5,4 @@
   * `button one` turns red (toggle CSS class `button-danger`) which means if clicked again it goes back to blue
   * `button two` changes its inner text to `you clicked me`
   * `button three` changes the inner text of `button two` back to "button two"
-  * **BONUS:** Accomplish all of the above by binding _only one_ event listener
+  * **BONUS:** Accomplish all of the above by binding _only one_ event listener Here I am.
